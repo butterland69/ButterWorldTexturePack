@@ -1,0 +1,30 @@
+name: Auto Package Texture Pack
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 複製專案程式碼
+        uses: actions/checkout@v4
+
+      - name: 打包成 Minecraft 專用 ZIP
+        run: |
+          zip -r ButterWorldTexturePack.zip assets pack.mcmeta
+
+      - name: 發布並更新下載連結
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "ButterWorldTexturePack.zip"
+          tag: "latest"
+          name: "最新自動打包版本 (Latest Build)"
+          allowUpdates: true
+          removeArtifacts: true
+          token: ${{ secrets.GITHUB_TOKEN }}
