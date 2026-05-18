@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/armor_stand_hand",
+    "tints": []
+  }
+}
