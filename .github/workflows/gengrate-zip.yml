@@ -1,0 +1,26 @@
+name: Generate Clean Zip
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Create Clean Zip
+        # 使用 git archive 確保壓縮檔內沒有外層資料夾
+        run: git archive --format=zip --output=main-files.zip HEAD
+
+      - name: Upload Release Asset
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: "Latest Main Files"
+          files: main-files.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
