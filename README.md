@@ -1,2 +1,2 @@
-# butter-world-texture-pack
+# ButterWorldTexturePack
 a texture pack for butter world server
