@@ -44,6 +44,15 @@
       "chars": [
         "\uE005"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/painfullaughing.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE006"
+      ]
     }
   ]
 }
