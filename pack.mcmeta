@@ -1,7 +1,10 @@
 {
     "pack": {
+        "pack_format": 71,
         "description": "Butter World 專屬材質包 !",
-		"min_format": 75,
-        "max_format": 75
+        "suppored_formats": {
+            "min_inclusive": 34,
+            "max_inclusive": 71
+        }
     }
 }
