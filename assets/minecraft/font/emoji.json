@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/painfullaughing.png",
+      "ascent": 12,
+      "height": 12,
+      "chars": [
+        "\uE100"
+      ]
+    }
+  ]
+}

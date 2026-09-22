@@ -1,0 +1,337 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/mic_on.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/mic_off.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/server_mic_off.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/deafen.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/server_deafen.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/claimed.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_1.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_2.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_3.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_4.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE00A"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_5.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE00B"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_6.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE00C"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_7.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE00D"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_8.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE00E"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_9.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE00F"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_10.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_11.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_12.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_13.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_14.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_15.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_16.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_17.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_18.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE018"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_19.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE019"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_20.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE01A"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_21.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE01B"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_22.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE01C"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_23.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE01D"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_24.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE01E"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_25.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE01F"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_26.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE020"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_27.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE021"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_28.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE022"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_29.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE023"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_30.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE024"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/day_31.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE025"
+      ]
+    }
+  ]
+}
