@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:font/painfullaughing.png",
+      "file": "minecraft:font/emoji/painfullaughing.png",
       "ascent": 12,
       "height": 12,
       "chars": [
