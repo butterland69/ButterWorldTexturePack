@@ -14,3 +14,6 @@ Resource Pack of ButterWorld
 
 ### Threads
 > https://www.threads.com/@butterworld_mc
+
+### 叉子原因
+>因為pack.mcmeta中的寫法不兼容1.21.1
