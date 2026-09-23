@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:font/mic_on",
+      "file": "minecraft:font/mic_on.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/mic_off",
+      "file": "minecraft:font/mic_off.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/server_mic_off",
+      "file": "minecraft:font/server_mic_off.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/deafen",
+      "file": "minecraft:font/deafen.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/server_deafen",
+      "file": "minecraft:font/server_deafen.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/claimed",
+      "file": "minecraft:font/claimed.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_1",
+      "file": "minecraft:font/day_1.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_2",
+      "file": "minecraft:font/day_2.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_3",
+      "file": "minecraft:font/day_3.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -83,7 +83,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_4",
+      "file": "minecraft:font/day_4.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -92,7 +92,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_5",
+      "file": "minecraft:font/day_5.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -101,7 +101,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_6",
+      "file": "minecraft:font/day_6.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -110,7 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_7",
+      "file": "minecraft:font/day_7.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -119,7 +119,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_8",
+      "file": "minecraft:font/day_8.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -128,7 +128,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_9",
+      "file": "minecraft:font/day_9.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -137,7 +137,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_10",
+      "file": "minecraft:font/day_10.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -146,7 +146,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_11",
+      "file": "minecraft:font/day_11.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -155,7 +155,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_12",
+      "file": "minecraft:font/day_12.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -164,7 +164,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_13",
+      "file": "minecraft:font/day_13.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -173,7 +173,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_14",
+      "file": "minecraft:font/day_14.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -182,7 +182,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_15",
+      "file": "minecraft:font/day_15.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -191,7 +191,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_16",
+      "file": "minecraft:font/day_16.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -200,7 +200,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_17",
+      "file": "minecraft:font/day_17.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -209,7 +209,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_18",
+      "file": "minecraft:font/day_18.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -218,7 +218,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_19",
+      "file": "minecraft:font/day_19.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -227,7 +227,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_20",
+      "file": "minecraft:font/day_20.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -236,7 +236,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_21",
+      "file": "minecraft:font/day_21.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -245,7 +245,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_22",
+      "file": "minecraft:font/day_22.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -254,7 +254,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_23",
+      "file": "minecraft:font/day_23.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -263,7 +263,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_24",
+      "file": "minecraft:font/day_24.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -272,7 +272,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_25",
+      "file": "minecraft:font/day_25.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -281,7 +281,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_26",
+      "file": "minecraft:font/day_26.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -290,7 +290,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_27",
+      "file": "minecraft:font/day_27.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -299,7 +299,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_28",
+      "file": "minecraft:font/day_28.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -308,7 +308,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_29",
+      "file": "minecraft:font/day_29.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -317,7 +317,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_30",
+      "file": "minecraft:font/day_30.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -326,7 +326,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/day_31",
+      "file": "minecraft:font/day_31.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -335,7 +335,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/calenderspace",
+      "file": "minecraft:font/calenderspace.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -344,7 +344,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/painfullaughing",
+      "file": "minecraft:font/painfullaughing.png",
       "ascent": 12,
       "height": 12,
       "chars": [
