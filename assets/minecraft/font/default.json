@@ -341,6 +341,15 @@
       "chars": [
         "\uE225"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/emoji/painfullaughing.png",
+      "ascent": 12,
+      "height": 12,
+      "chars": [
+        "\uE300"
+      ]
     }
   ]
 }
