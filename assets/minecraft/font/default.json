@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:font/mic_on.png",
+      "file": "minecraft:font/default/mic/mic_on.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/mic_off.png",
+      "file": "minecraft:font/default/mic/mic_off.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/server_mic_off.png",
+      "file": "minecraft:font/default/mic/server_mic_off.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/deafen.png",
+      "file": "minecraft:font/default/mic/deafen.png",
       "ascent": 8,
       "height": 8,
       "chars": [
@@ -38,11 +38,56 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/server_deafen.png",
+      "file": "minecraft:font/default/mic/server_deafen.png",
       "ascent": 8,
       "height": 8,
       "chars": [
         "\uE204"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/default/emoji/painfullaughing.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE300"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/default/emoji/hmm.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE301"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/default/emoji/noooooooooooooo.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE302"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/default/emoji/joe-sad.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE303"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/default/emoji/adore.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE304"
       ]
     }
   ]
