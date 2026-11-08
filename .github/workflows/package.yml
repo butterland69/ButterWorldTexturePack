@@ -15,16 +15,17 @@ jobs:
       - name: 複製專案程式碼
         uses: actions/checkout@v4
 
-      - name: 打包成 Minecraft 專用 ZIP
+      - name: 打包成ZIP
         run: |
-          zip -r ButterWorldTexturePack.zip assets pack.mcmeta
+          zip -r ButterWorldTexturePack.zip assets pack.mcmeta pack.png -x "*.git*" ".github/*"
 
-      - name: 發布並更新下載連結
-        uses: ncipollo/release-action@v1
+      - name: 發布至 GitHub Releases
+        uses: softprops/action-gh-release@v2
         with:
-          artifacts: "ButterWorldTexturePack.zip"
-          tag: "latest"
-          name: "最新自動打包版本 (Latest Build)"
-          allowUpdates: true
-          removeArtifacts: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          files: ButterWorldTexturePack.zip
+          tag_name: automated-${{ github.run_number }}
+          name: "ButterWorld 材質包 #${{ github.run_number }}"
+          body: "自動發布的版本。"
+          latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
